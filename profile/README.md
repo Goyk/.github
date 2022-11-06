@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Focus on RAT and C2!
+Focus on RAT and C2.
 
 <!--
 
